@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-print("ztynb!")
+print("\tztynb!")
 for _ in range(10):
     pyautogui.press('space')
     time.sleep(3)
